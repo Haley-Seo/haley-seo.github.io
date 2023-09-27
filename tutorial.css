@@ -82,4 +82,12 @@ nav::after {
   height: 100%;
   opacity: 0.5;
   background-image: url(./images/Featured-image-what-is-an-email-header-43kb.png);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.hd .container {
+  position: relative;
+  color: black;
 }
